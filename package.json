@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/nikkoluu1/PokeTwitch/issues"
   },
-  "homepage": "https://github.com/nikkoluu1/PokeTwitch#readme"
+  "homepage": "https://github.com/nikkoluu1/PokeTwitch#readme",
+  "dependencies": {
+    "typescript": "^4.7.4"
+  }
 }

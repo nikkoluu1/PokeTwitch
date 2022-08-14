@@ -1,0 +1,19 @@
+{
+  "name": "poketwitch",
+  "version": "1.0.0",
+  "description": "Este proyecto se propone crear una aplicación de escritorio que funcionará como un campo para entrenadorxs pokémon, inicialmente para atrapar y poder tener tu propia pokedex desde un chat de twitch.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikkoluu1/PokeTwitch.git"
+  },
+  "author": "Alan and Nikkoluu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikkoluu1/PokeTwitch/issues"
+  },
+  "homepage": "https://github.com/nikkoluu1/PokeTwitch#readme"
+}
